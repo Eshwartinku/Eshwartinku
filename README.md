@@ -5,21 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshwartinku" alt="eshwartinku" /></a> </p>
 
-- 🔭 I’m currently working on [xydz](ewfe)
+- 🔭 I’m currently working on **Full Stack Development|Data Analytics**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics ,MERN Stack, and Generative AI**
 
-- 👯 I’m looking to collaborate on [exce](dfs)
+- 👯 I’m looking to collaborate on **MERN Stack Projects, AI-Based Applications, and Data Analytics Projects**
 
-- 🤝 I’m looking for help with [efewf](ffw)
+- 🤝 I’m looking for help with **Building Real-World Projects, Improving Problem-Solving Skills, and Learning Advanced Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eshwartinku](https://github.com/Eshwartinku)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Python, Java, SQL, JavaScript, and Data Analytics**
 
 - 📫 How to reach me **jajalaeshwar2@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GvmmFwGGg5iQRPWQgF3_5POxpvvgDdVV/view?usp=drive_link](https://drive.google.com/file/d/1GvmmFwGGg5iQRPWQgF3_5POxpvvgDdVV/view?usp=drive_link)
+
+- ⚡ Fun fact **I enjoy learning new technologies and turning ideas into real-world projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
