@@ -1,38 +1,102 @@
-<h1 align="center">Hi 👋, I'm Eshwar</h1>
-<h3 align="center">🚀 Aspiring Software Developer | MERN Stack | AI & Generative AI | Data Analytics | Building Real-World Projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwartinku&label=Profile%20views&color=0e75b6&style=flat" alt="eshwartinku" /> </p>
+<!-- ================= HEADER ================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshwartinku" alt="eshwartinku" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Full Stack Development|Data Analytics**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:414868,100:7AA2F7&height=200&section=header&text=ESHWAR%20JAJALA&fontSize=48&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Analytics&descAlignY=60&descSize=16" width="100%"/>
 
-- 🌱 I’m currently learning **Data Analytics ,MERN Stack, and Generative AI**
+<br/>
 
-- 👯 I’m looking to collaborate on **MERN Stack Projects, AI-Based Applications, and Data Analytics Projects**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;Exploring+Generative+AI;Learning+Data+Analytics;Building+Real+World+Projects" />
 
-- 🤝 I’m looking for help with **Building Real-World Projects, Improving Problem-Solving Skills, and Learning Advanced Technologies**
+<br/><br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eshwartinku](https://github.com/Eshwartinku)
+<a href="https://github.com/jajalaeshwar">
+<img src="https://komarev.com/ghpvc/?username=jajalaeshwar&label=PROFILE+VIEWS&color=7AA2F7&style=for-the-badge" />
+</a>
 
-- 💬 Ask me about **Python, Java, SQL, JavaScript, and Data Analytics**
+</div>
 
-- 📫 How to reach me **jajalaeshwar2@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GvmmFwGGg5iQRPWQgF3_5POxpvvgDdVV/view?usp=drive_link](https://drive.google.com/file/d/1GvmmFwGGg5iQRPWQgF3_5POxpvvgDdVV/view?usp=drive_link)
+<!-- ================= ABOUT ================= -->
 
-- ⚡ Fun fact **I enjoy learning new technologies and turning ideas into real-world projects.**
+<h2 align="center">⚡ ABOUT ME</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/eshwar-jajala-5115ab426/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eshwar-jajala-5115ab426/" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+🌱 MERN Stack | Artificial Intelligence | Data Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshwartinku&show_icons=true&locale=en&layout=compact" alt="eshwartinku" /></p>
+💻 Passionate about building technology projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshwartinku&show_icons=true&locale=en" alt="eshwartinku" /></p>
+🚀 Always Learning • Always Building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshwartinku&" alt="eshwartinku" /></p>
+</div>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jajalaeshwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jajalaeshwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5" />
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=jajalaeshwar&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=BB9AF7&currStreakLabel=C0CAF5" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+<h2 align="center">🐍 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jajalaeshwar&bg_color=1A1B26&color=C0CAF5&line=7AA2F7&point=BB9AF7&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jajalaeshwar">
+<img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26" />
+</a>
+
+<a href="mailto:jajalaeshwar2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-BB9AF7?style=for-the-badge&logo=gmail&logoColor=1A1B26" />
+</a>
+
+<a href="https://github.com/jajalaeshwar">
+<img src="https://img.shields.io/badge/GitHub-C0CAF5?style=for-the-badge&logo=github&logoColor=1A1B26" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:414868,100:1A1B26&height=100&section=footer" width="100%" />
+
+</div>
