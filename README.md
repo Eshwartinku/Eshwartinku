@@ -7,7 +7,7 @@
 
 <!-- ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:414868,100:7AA2F7&height=200&section=header&text=ESHWAR%20JAJALA&fontSize=48&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20DATA%20ANALYTICS&descAlignY=60&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:414868,100:7AA2F7&height=200&section=header&text=ESHWAR%20JAJALA&fontSize=48&fontColor=C0CAF5&animation=fadeIn&fontAlignY=38&desc=MERN%20STACK%20%7C%20AI%20%7C%20DATA%20ANALYTICS&descAlignY=60&descSize=18"/>
 
 <!-- TYPING ANIMATION -->
 
